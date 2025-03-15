@@ -1,2 +1,0 @@
-# codechien
-this is project
